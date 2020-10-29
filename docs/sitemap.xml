@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://it.apd-holding.com/blog/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it.apd-holding.com/categories/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it.apd-holding.com/tags/golang/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it.apd-holding.com/tags/hugo/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it.apd-holding.com/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it.apd-holding.com/blog/02/10/2015/linked-post/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it.apd-holding.com/tags/programming/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it.apd-holding.com/categories/programming/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it.apd-holding.com/tags/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it.apd-holding.com/tags/theme/</loc>
+    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it.apd-holding.com/tags/go/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it.apd-holding.com/blog/17/09/2015/go-is-for-lovers/</loc>
+    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it.apd-holding.com/blog/03/08/2015/hugo-is-for-lovers/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it.apd-holding.com/categories/pseudo/</loc>
+    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it.apd-holding.com/blog/24/06/2015/creating-a-new-theme/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it.apd-holding.com/categories/starting/</loc>
+    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://it.apd-holding.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>http://it.apd-holding.com/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>http://it.apd-holding.com/tags/ipsum/</loc>
+  </url>
+  
+  <url>
+    <loc>http://it.apd-holding.com/categories/lorem/</loc>
+  </url>
+  
+  <url>
+    <loc>http://it.apd-holding.com/blog/01/01/1/migrate-from-jekyll/</loc>
+  </url>
+  
+</urlset>
